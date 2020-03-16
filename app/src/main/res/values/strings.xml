@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Socket_IO</string>
+    <string name="key_map_api">AIzaSyAdHtd6ewd8iAzAzVzJT9FZRKUgsh7X9Eg</string>
+
+    <string name="action_leave">Đăng Xuất</string>
+    <string name="action_share">Chia sẻ vị trí</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_message">Message</string>
+
+    <string name="connect">Connected</string>
+    <string name="disconnect">Disconnected, Please check your internet connection</string>
+    <string name="error_connect">Failed to connect</string>
+
+    <!-- messages -->
+    <string name="message_welcome">Welcome to Socket_IO</string>
+    <plurals name="message_participants">
+        <item quantity="one">there\'s %d participant</item>
+        <item quantity="other">Có %d người tham gia</item>
+    </plurals>
+    <string name="message_user_joined">%s đã vào phòng</string>
+    <string name="message_user_left">%s đã rời khỏi phòng</string>
+    <string name="user_action_typing">Đang nhập ...</string>
+    <string name="username_colors" />
+
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+</resources>
